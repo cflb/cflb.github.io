@@ -44,7 +44,7 @@ In 2020 I led a team to develop the ROP-E platform, a strategic
 platform for managing and controlling police incidents for the State of
 Bahia (https://www.rop-e.com).
 
-## Experiência
+## Experience
 ```
 Bahia Federal Institute of Education, Science and Technology
 Substitute teacher
